@@ -1,0 +1,64 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    color: #222;
+    margin: 0;
+    padding: 32px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background: white;
+    padding: 24px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background: #e9eef5;
+    
+.product-form {
+    display: grid;
+    gap: 10px;
+    max-width: 500px;
+    margin: 20px 0 30px;
+}
+
+.product-form input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.product-form button {
+    width: fit-content;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    background: #2457a7;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.product-form button:hover {
+    background: #193f7a;
+}
+
+}
